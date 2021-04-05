@@ -3,7 +3,7 @@
 Sesuai dengan namanya, feature selection ini mengeluarkan variabel-variabel yang tidak memberikan kontribusi yang signifikan dalam pembentukan model.
 
 ## Type
-![](ReduksiDimensi.PNG)
+![](images/ReduksiDimensi.png)
 
 
 ## Source
