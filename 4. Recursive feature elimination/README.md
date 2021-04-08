@@ -19,7 +19,7 @@ selector.ranking_
 ```
 
 ## Flowchart
-![](RFE.png)
+![](images/RFE.png)
 
 
 ## Refference
